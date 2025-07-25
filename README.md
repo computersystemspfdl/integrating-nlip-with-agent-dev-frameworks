@@ -11,7 +11,7 @@ Demonstrates **Natural Language Interaction Protocol (NLIP)** integration with A
 
 📹 **[Watch Demo Video](https://drive.google.com/file/d/1C4p6kMPOgLltAx3djye8xrbSvJ4KQlbg/view?usp=sharing)** - See the demo in action!
 
-📄 **Presentation Slides**: "(Potentially) Integrating NLIP with Agent Development Frameworks (July 23, '25).pdf"
+📄 **Presentation Slides**: "Integrating NLIP with Agent Development Frameworks (July 23, '25).pdf"
 
 ## 🎯 What This Shows
 
