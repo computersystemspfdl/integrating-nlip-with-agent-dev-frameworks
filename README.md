@@ -15,8 +15,8 @@ Demonstrates **Natural Language Interaction Protocol (NLIP)** integration with A
 
 ## 🎯 What This Shows
 
-1. **🔄 Inter-Agent Communication**: LangChain coordinator delegates to LlamaIndex worker via NLIP
-2. **🏠 Standalone Integration**: Direct NLIP integration with individual frameworks
+1. **🔄 Inter-Agent Communication**: LangChain coordinator agent delegates to LlamaIndex worker agent via NLIP
+2. **🏠 Standalone Integration**: NLIP integration with individual agent development frameworks
 
 **Key Capabilities:**
 - Cross-framework communication via NLIP protocol
