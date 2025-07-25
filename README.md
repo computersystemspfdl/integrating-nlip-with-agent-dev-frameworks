@@ -1,4 +1,4 @@
-# Integrating NLIP with Agent Development Frameworks (with demo application and source code)
+# Integrating NLIP with Agent Development Frameworks
 
 The emergence of agent development frameworks such as LangChain, AutoGen, and LlamaIndex has significantly accelerated the development of large language model-based applications. However, this diversity has led to a fragmented ecosystem where agents lack a shared communication protocol, limiting interoperability. To address this challenge, we demonstrate the convenient integration of the Natural Language Interaction Protocol (NLIP) with  agent development frameworks to enable seamless, standardized communication among heterogeneous agents.
 
