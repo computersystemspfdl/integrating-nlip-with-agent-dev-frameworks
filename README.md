@@ -9,7 +9,7 @@ In summary, NLIP seamlessly integrates with existing agent development framework
 
 Demonstrates **Natural Language Interaction Protocol (NLIP)** integration with AI agent frameworks, showcasing inter-agent communication capabilities.
 
-📹 **[Watch Demo Video](https://drive.google.com/file/d/1TgfTimKEdIOnGHDFqr67ipTRew2SxIw2/view?usp=sharing)** - See the demo in action!
+📹 **[Watch Demo Video](https://drive.google.com/file/d/1C4p6kMPOgLltAx3djye8xrbSvJ4KQlbg/view?usp=sharing)** - See the demo in action!
 
 📄 **Presentation Slides**: "(Potentially) Integrating NLIP with Agent Development Frameworks (July 23, '25).pdf"
 
