@@ -12,7 +12,7 @@ Demonstrates **NLIP** integration with AI agent frameworks, showcasing inter-age
 
 📹 **[Watch Demo Video](https://drive.google.com/file/d/1C4p6kMPOgLltAx3djye8xrbSvJ4KQlbg/view?usp=sharing)** - See the demo in action!
 
-📄 **[Presentation Slides: "Integrating NLIP with Agent Development Frameworks (July 23, '25).pdf"](https://docs.google.com/presentation/d/1fymGsGDMwNhhaD3eU4E4kgtiFg_Pv6e9l_cistT1tMM/edit?usp=sharing)**
+📄 **[Presentation Slides: "Integrating NLIP with Agent Development Frameworks (July 23, '25).pdf"](https://github.com/computersystemspfdl/integrating-nlip-with-agent-dev-frameworks/blob/main/NLIP%20demo%20(July%2023%2C%202025).pdf)**
 
 ## 🎯 What This Shows
 
